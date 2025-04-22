@@ -1,0 +1,2 @@
+yarn add -D @types/node @types/express @types/cors @types/dotenv
+yarn add -D typescript
